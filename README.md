@@ -17,7 +17,7 @@ Uma biblioteca Python simples e educacional para conversão de números hexadeci
 
 ```bash
 .
-├── Bibli.py     # Arquivo da biblioteca com as funções e a classe principal
+├── Hexa.py     # Arquivo da biblioteca com as funções e a classe principal
 ├── main.py      # Script de exemplo usando a biblioteca
 └── README.md    # (Este arquivo)
 ```
