@@ -1,16 +1,16 @@
-import Bibli
+import Hexas
 
-Hexas = {
+Hexa = {
     "num1" : 'A',
     "num2" : 'B',
     "num3" : 'C',
     "num4" : 'D'
 }
 
-H = Bibli.hexa(Hexas)
+H = Hexas.hexa(Hexa)
 
 
 
 print(H)
-print(Bibli.in_hexa(H.num1 + H.num3))
-print(Bibli.in_hexa(15))
+print(Hexas.in_hexa(H.num1 + H.num3))
+print(Hexas.in_hexa(15))
